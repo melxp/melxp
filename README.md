@@ -12,8 +12,8 @@ I'm building the network **from scratch** to strengthen my understanding of how 
 
 ## ⚙️ Tech Stack
 
-- **Python** (NumPy, PySide6, CustomTkinter)
-- **Java** (Swing, AWT)
+- **Python** — NumPy, PySide6, CustomTkinter
+- **Java** — Swing, AWT
 - **Ruby**
 - **JavaScript**
 - **SQL**
